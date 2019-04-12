@@ -25,14 +25,13 @@
     1. open the target editor
     2. open your target straight object file (NOT the file you just made in the reference editor, but the first .mat file you made for the audio)
     3. THEN open the reference file for the same straight object and it will populate with the formant and temporal anchors you just created
+    ![alt text](images_for_tut/image2.png "image 2")
     4. open your target straight object file for the next audio
         (You’ll use the reference file as…wait for it… a reference for the next straight object)
-    ![alt text](images_for_tut/image2.png "image 2")
     4. click on “copy from reference anchor” in File and it will populate the information from the reference onto the target StrObj
+    ![alt text](images_for_tut/image4.png "image 4")
     5. Move the copied reference targets to match the actual formant and temporal values on your target and save the file 
     6. repeat this step for the rest of your files
-    
-
 
     
 * Step 5, put everything together using the ’threewaymorphingFileSelector’ (if you’re morphing more than three files, you’ll have to use the ‘temporallyStaticBatchMorphing’ which also requires a text file with references to the locations of each straight object and it’s reference/target anchor information - you can see http://web.wakayama-u.ac.jp/~kawahara/tSTRAIGHT/TVNmorphingBatchE-1.pdf for a detailed explanation) 
@@ -44,7 +43,7 @@
     1. Open the GUI
     2. load the bundle .mat file you made in the previous step
     3. now you can manipulate the orbs (?) or fill in the values in the editor to create morphs between voices. You can then save it as a .wav file by pressing the save button.
-    ![alt text](images_for_tut/image4.png "image 4")
+    ![alt text](images_for_tut/image5.png "image 5")
 
 
 
