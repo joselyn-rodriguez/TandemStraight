@@ -3,10 +3,8 @@
 
 * Necessary packages: 
     *  TandemSTRAIGHTmonolithicPackage014
-    * these websites require passwords. Contact **Hideki Kawahara** for access 
-        * http://www.wakayama-u.ac.jp/~kawahara/tSTRAIGHT/TANDEM-STRAIGHTwithGUI.html
     * nwayMorphingProgs20151008 (or current version)
-        *  http://web.wakayama-u.ac.jp/~kawahara/tSTRAIGHT/TVMAnwayMorphing.html
+        * contact the creator of Tandem - **Dr. Hideki Kawahara** for access to the programs (http://web.wakayama-u.ac.jp/~kawahara/index-e.html)
 
 
 ## N-way morphing
