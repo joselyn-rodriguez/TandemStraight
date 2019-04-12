@@ -19,6 +19,10 @@
     3. then you need to set temporal anchors by pressing the ’+T’ in the ribbon (The buttons can by kind of finicky, you might need to press the button to use the tool and press it again to “put the tool away”. Otherwise you might not be able to switch between tools)
     4. Then you can use the temporal anchors to add Formant reference points by clicking on the ‘+F'
     5. save the file and you’re done with this step.
+    
+![alt text] (https://github.com/joselyn-rodriguez/TandemStraight/blob/master/test_stimuli/images_for_tut/Screen Shot 2019-04-12 at 12.44.14 PM.png "image 1")
+
+  
 * Step 4, you’re going to create a target .mat file using ’targetEditorGUIv5’ in Matlab
     1. open the target editor
     2. open your target straight object file (NOT the file you just made in the reference editor, but the first .mat file you made for the audio)
@@ -28,6 +32,9 @@
     4. click on “copy from reference anchor” in File and it will populate the information from the reference onto the target StrObj
     5. Move the copied reference targets to match the actual formant and temporal values on your target and save the file 
     6. repeat this step for the rest of your files
+    
+    ![alt text] (https://github.com/joselyn-rodriguez/TandemStraight/blob/master/test_stimuli/images_for_tut/Screen Shot 2019-04-12 at 12.44.14 PM.png "image 2")
+    
 * Step 5, put everything together using the ’threewaymorphingFileSelector’ (if you’re morphing more than three files, you’ll have to use the ‘temporallyStaticBatchMorphing’ which also requires a text file with references to the locations of each straight object and it’s reference/target anchor information - you can see http://web.wakayama-u.ac.jp/~kawahara/tSTRAIGHT/TVNmorphingBatchE-1.pdf for a detailed explanation) 
     1. open the morphing GUI
     2.  click on the corresponding buttons to add the straight object and anchor file for each speaker (orb?)
@@ -36,4 +43,9 @@
     1. Open the GUI
     2. load the bundle .mat file you made in the previous step
     3. now you can manipulate the orbs (?) or fill in the values in the editor to create morphs between voices. You can then save it as a .wav file by pressing the save button.
+    
+![alt text] (https://github.com/joselyn-rodriguez/TandemStraight/blob/master/test_stimuli/images_for_tut/Screen Shot 2019-04-12 at 1.48.44 PM.png "image 3")
+
+![alt text] (https://github.com/joselyn-rodriguez/TandemStraight/blob/master/test_stimuli/images_for_tut/Screen Shot 2019-04-12 at 1.48.44 PM.png "image 4")
+
 
