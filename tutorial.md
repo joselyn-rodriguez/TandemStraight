@@ -14,10 +14,10 @@
 * Now, you’re ready to start n-way morphing
 * Step 3, you’ll want to create reference .mat files using ‘referenceEditorGUIv4’ in Matlab 
     1. open the referenceEditorGUIv4
-    ![alt text](images_for_tut/image1.png "image 1")
     2. open the mat file you want to use as reference by clicking on File, open Straight object
     3. then you need to set temporal anchors by pressing the ’+T’ in the ribbon (The buttons can by kind of finicky, you might need to press the button to use the tool and press it again to “put the tool away”. Otherwise you might not be able to switch between tools)
     4. Then you can use the temporal anchors to add Formant reference points by clicking on the ‘+F'
+    ![alt text](images_for_tut/image1.png "image 1")
     5. save the file and you’re done with this step.
 
   
