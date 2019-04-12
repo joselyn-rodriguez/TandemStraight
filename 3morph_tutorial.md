@@ -1,4 +1,4 @@
-# quick Tandem N-way morphing tutorial
+# quick Tandem 3-way morphing tutorial
 
 
 * Necessary packages: 
@@ -7,7 +7,7 @@
         * contact the creator of Tandem - **Dr. Hideki Kawahara** for access to the programs (http://web.wakayama-u.ac.jp/~kawahara/index-e.html)
 
 
-## N-way morphing
+## 3-way morphing
 
 * Step 1, pray to the gods that this program won’t crash on you
 * Step 2, because this uses straight object files, you will have to FIRST analyze your audio files in the ’TandemSTRAIGHThandler’ in order to extract the F0, Aperiodicity, and STRAIGHT spectrum for each file and save them as FILE.mat. For review, see (https://memcauliffe.com/straight_workshop/)
