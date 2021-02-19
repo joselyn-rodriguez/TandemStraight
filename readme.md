@@ -5,7 +5,13 @@ Tandem straight is a program that allows for synthesis of audio and can be used 
 
 ## 3-Way Morphing 
 
+https://joselyn-rodriguez.github.io/TandemStraight/
 
+## General synthesis 
+
+TBC
+
+## Intonational synthesis
 
 
 
